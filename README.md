@@ -8,6 +8,8 @@
 - COMMAND LINE ARGUMENT PARSING: Use argparse to parse command-line arguments. Accept the input file path using the --input option. Accept the output file path using the -o option.
 - USER INPUT FOR INPUT AND OUTPUT FILES: Prompt the user to provide the paths for the input and output files if not provided as command-line arguments.
 - EXECUTION : If executed as the main program (not imported as a module), run the URL processing function with the provided input and output file paths.
-  # WORKING SCREENSHOTS <hr>
-  # PYTHON CODE
+  ## WORKING SCREENSHOTS 
+  ### PYTHON CODE
 ![code](https://github.com/Rasuchan/RASUT2/blob/main/code.png)
+### EXECUTING ON TERMINAL
+![code](https://github.com/Rasuchan/RASUT2/blob/main/terminal.png)
