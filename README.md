@@ -17,3 +17,4 @@
 ![input](https://github.com/Rasuchan/RASUT2/blob/main/input.png)
 ### OUTPUT GENERATED
 ![output1](https://github.com/Rasuchan/RASUT2/blob/main/output1.png)
+![output](https://github.com/Rasuchan/RASUT2/blob/main/output2.png)
