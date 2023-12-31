@@ -9,12 +9,12 @@
 - USER INPUT FOR INPUT AND OUTPUT FILES: Prompt the user to provide the paths for the input and output files if not provided as command-line arguments.
 - EXECUTION : If executed as the main program (not imported as a module), run the URL processing function with the provided input and output file paths.
   ## WORKING SCREENSHOTS 
-  ### PYTHON CODE
+  ### PYTHON CODE :-
 ![code](https://github.com/Rasuchan/RASUT2/blob/main/code.png)
-### EXECUTING ON TERMINAL
+### EXECUTING ON TERMINAL :-
 ![code](https://github.com/Rasuchan/RASUT2/blob/main/terminal.png)
-### INPUT FILE 
+### INPUT FILE :-
 ![input](https://github.com/Rasuchan/RASUT2/blob/main/input.png)
-### OUTPUT GENERATED
+### OUTPUT GENERATED :-
 ![output1](https://github.com/Rasuchan/RASUT2/blob/main/output1.png)
 ![output](https://github.com/Rasuchan/RASUT2/blob/main/output2.png)
