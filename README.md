@@ -15,3 +15,5 @@
 ![code](https://github.com/Rasuchan/RASUT2/blob/main/terminal.png)
 ### INPUT FILE 
 ![input](https://github.com/Rasuchan/RASUT2/blob/main/input.png)
+### OUTPUT GENERATED
+![output1](https://github.com/Rasuchan/RASUT2/blob/main/output1.png)
