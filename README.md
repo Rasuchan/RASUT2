@@ -1,12 +1,15 @@
 <p align="center">
 
-# TASK 2 : CREATE A BASIC TOOL TO PROCESS THE GIVEN URL'S INTO DIFFERENT COMBINATIONS WITH RESPECT TO THE ENDPOINTS OF URL <hr>
-# SUBMITTED BY RASHMIKA R S
+# URL Processing Tool Documentation <hr>
+### SUBMITTED BY RASHMIKA R S
 
 </p>
 <p align="center">
   <img src="URL PROCESSING (2).gif">
 </p>
+
+## OVERVIEW
+> The URL Processing Tool is a utility designed to process URLs from an input file and generate a list of unique endpoints, which are then written to an output file. This tool is particularly useful for analyzing and extracting endpoints from URLs.
 
 # WORKING WITH URL's
 - INPUT FILE VALIDATION - Check if the specified input file exists, if the file is not found print an error message and exit the program.
