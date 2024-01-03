@@ -31,3 +31,11 @@
 ## FEATURES
 - INPUT VALIDATION
 > Checks input file existence; prompts for user input if file not found.
+- URL PROCESSING
+> Reads, deduplicates, and generates unique endpoints from URLs.
+- SORTING AND OUTPUT
+> Alphabetically sorts unique endpoints; writes results to the output file.
+- COMMAND-LINE INTERFACE
+> Utilizes argparse for seamless command-line interactions.
+- EXECUTION
+> Standalone execution processes URLs, producing unique endpoints.
