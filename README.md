@@ -45,13 +45,14 @@ cd URL_PROCESSING_TOOL
 ```
 **RUN THE SCRIPT**
 > Ensure you have Python installed on your machine.
-> Execute the script with the desired input and output file paths. For example:
+>> Execute the script with the desired input and output file paths. For example:
 <hr>
 
 `bash`
 ```
 python url_processing_tool.py --input input_file.txt -o output_file.txt
 ```
+> Replace input_file.txt and output_file.txt with your actual file paths.
 
 ## FEATURES
 - INPUT VALIDATION
