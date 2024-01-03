@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=Rasuchan&label=Profile%20views&color=0e75b6&style=flat" alt="Rasuchan" />
 </p>
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 <p align="center">
   <img src="URL PROCESSING (2).gif">
 </p>
