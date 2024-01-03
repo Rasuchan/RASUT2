@@ -1,7 +1,7 @@
 # TASK 2 : CREATE A BASIC TOOL TO PROCESS THE GIVEN URL'S INTO DIFFERENT COMBINATIONS WITH RESPECT TO THE ENDPOINTS OF URL <hr>
 # SUBMITTED BY RASHMIKA R S
 <p align="center">
-  <img src="URL PROCESSING.gif">
+  <img src="URL PROCESSING (2).gif">
 </p>
 
 # WORKING WITH URL's
@@ -12,6 +12,11 @@
 - COMMAND LINE ARGUMENT PARSING: Use argparse to parse command-line arguments. Accept the input file path using the --input option. Accept the output file path using the -o option.
 - USER INPUT FOR INPUT AND OUTPUT FILES: Prompt the user to provide the paths for the input and output files if not provided as command-line arguments.
 - EXECUTION : If executed as the main program (not imported as a module), run the URL processing function with the provided input and output file paths.
+
+  <p align="center">
+  <img src="url features.gif">
+</p>
+
   ## WORKING SCREENSHOTS 
   ### PYTHON CODE :-
 ![code](https://github.com/Rasuchan/RASUT2/blob/main/code.png)
