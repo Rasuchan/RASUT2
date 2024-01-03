@@ -35,7 +35,9 @@
 ## INSTALLATION
 **CLONE THE REPOSITORY** <hr>
 `bash`
-// git clone https://github.com/Rasuchan/URL_PROCESSING_TOOL.git
+```
+ git clone https://github.com/Rasuchan/URL_PROCESSING_TOOL.git
+```
 
 ## FEATURES
 - INPUT VALIDATION
