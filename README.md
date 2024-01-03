@@ -19,7 +19,7 @@
 
   <p align="center">
   <img src="url features.gif">
-</p>
+</p><hr>
 
   ## WORKING SCREENSHOTS 
   ### PYTHON CODE :-
