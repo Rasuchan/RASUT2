@@ -46,5 +46,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karthikeyan--v/" target="blank"></a>
+<a href="https://www.instagram.com/your_instagram_username" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-instagram"></i> Follow me on Instagram
+</a>
 </p>
