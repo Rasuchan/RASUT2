@@ -2,7 +2,8 @@
 # SUBMITTED BY RASHMIKA R S
 <p align="center">
   <img src="URL PROCESSING.gif">
-</p> 
+</p>
+
 # WORKING WITH URL's
 - INPUT FILE VALIDATION - Check if the specified input file exists, if the file is not found print an error message and exit the program.
 - READ URL's FROM INPUT FILE - Open the input file and reads its contents line by line, strip any leading / trailing whitespaces from eachline.
