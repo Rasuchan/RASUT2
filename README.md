@@ -38,6 +38,11 @@
 ```
  git clone https://github.com/Rasuchan/URL_PROCESSING_TOOL.git
 ```
+**NAVIGATE TO THE PROJECT DIRECTORY**
+`bash`
+```
+cd URL_PROCESSING_TOOL
+```
 
 ## FEATURES
 - INPUT VALIDATION
