@@ -27,3 +27,7 @@
 ### OUTPUT GENERATED :-
 ![output1](https://github.com/Rasuchan/RASUT2/blob/main/output1.png)
 ![output](https://github.com/Rasuchan/RASUT2/blob/main/output2.png)
+
+## FEATURES
+- INPUT VALIDATION
+> Checks input file existence; prompts for user input if file not found.
