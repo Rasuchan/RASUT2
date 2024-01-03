@@ -33,7 +33,8 @@
 ![output](https://github.com/Rasuchan/RASUT2/blob/main/output2.png)
 
 ## INSTALLATION
-** CLONE THE REPOSITORY **
+**CLONE THE REPOSITORY**
+`bash`
 
 ## FEATURES
 - INPUT VALIDATION
