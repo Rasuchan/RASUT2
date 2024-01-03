@@ -38,10 +38,19 @@
 ```
  git clone https://github.com/Rasuchan/URL_PROCESSING_TOOL.git
 ```
-**NAVIGATE TO THE PROJECT DIRECTORY**
+**NAVIGATE TO THE PROJECT DIRECTORY** <hr>
 `bash`
 ```
 cd URL_PROCESSING_TOOL
+```
+**RUN THE SCRIPT**
+> Ensure you have Python installed on your machine.
+> Execute the script with the desired input and output file paths. For example:
+<hr>
+
+`bash`
+```
+python url_processing_tool.py --input input_file.txt -o output_file.txt
 ```
 
 ## FEATURES
