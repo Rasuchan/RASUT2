@@ -33,8 +33,9 @@
 ![output](https://github.com/Rasuchan/RASUT2/blob/main/output2.png)
 
 ## INSTALLATION
-**CLONE THE REPOSITORY**
+**CLONE THE REPOSITORY** <hr>
 `bash`
+// git clone https://github.com/Rasuchan/URL_PROCESSING_TOOL.git
 
 ## FEATURES
 - INPUT VALIDATION
