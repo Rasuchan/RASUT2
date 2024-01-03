@@ -46,7 +46,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/rasu_chan8825/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/instagram-circle--v1.png"/> Follow me on Instagram
-</a>
+<a href="https://www.instagram.com/rasu_chan8825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RASHMIKA R S" height="30" width="40" /></a>
 </p>
