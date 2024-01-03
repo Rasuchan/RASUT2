@@ -10,6 +10,8 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+<hr>
+
 <p align="center">
   <img src="URL PROCESSING (2).gif">
 </p>
@@ -41,6 +43,8 @@
 ![output1](https://github.com/Rasuchan/RASUT2/blob/main/output1.png)
 ![output](https://github.com/Rasuchan/RASUT2/blob/main/output2.png)
 
+<hr>
+
 ## INSTALLATION
 **CLONE THE REPOSITORY** <hr>
 `bash`
@@ -63,6 +67,9 @@ python url_processing_tool.py --input input_file.txt -o output_file.txt
 ```
 > Replace input_file.txt and output_file.txt with your actual file paths.
 
+
+<hr>
+
 ## FEATURES
 - INPUT VALIDATION
 > Checks input file existence; prompts for user input if file not found.
@@ -74,6 +81,9 @@ python url_processing_tool.py --input input_file.txt -o output_file.txt
 > Utilizes argparse for seamless command-line interactions.
 - EXECUTION
 > Standalone execution processes URLs, producing unique endpoints.
+
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
