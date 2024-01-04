@@ -3,10 +3,15 @@
 # URL Processing Tool Documentation <hr>
 ### SUBMITTED BY RASHMIKA R S
 
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 <!-- Profile Views -->
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rasuchan&label=Profile%20views&color=0e75b6&style=flat" alt="Rasuchan" />
+</p>
 
 <hr>
 
